@@ -1,0 +1,7 @@
+include enable us to work with templates
+--- usgae  include 'header.php'
+
+require works same as include function
+-----usage - require 'header.php
+
+You can set the expiration time of a cookie but but not that of a session
